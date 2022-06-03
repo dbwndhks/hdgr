@@ -20,10 +20,12 @@ __리눅스 명령어 top__
     
 __top -b -n 1__
 
-![pic_013](https://user-images.githubusercontent.com/106789362/171846879-4645f68d-babb-4bd7-9692-235252a4de9c.png)
 
+![ka38_331_i1](https://user-images.githubusercontent.com/106789362/171871202-b6d64aa3-f29e-4e1c-8693-60f958c05e32.jpg)
 
-* 3:58 3시간 58분 전에 서버가 구동
+* top: 현재 서버 시간
+* up: 현 서버의 가동 시간
+* users: 현 서버에 접속해 있는 user 수
 * load average: 현재 시스템이 얼마나 일을 하는지를 나타냄.
 * Tasks: 프로세스 개수
 * Kib Mem,Swap: 각 메모리의 사용량
